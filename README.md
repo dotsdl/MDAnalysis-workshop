@@ -1,5 +1,7 @@
 # MDAnalysis Tutorial at the 2015 CECAM Macromolecular simulation software workshop
 
+[![Join the chat at https://gitter.im/Becksteinlab/MDAnalysis-workshop](https://badges.gitter.im/Becksteinlab/MDAnalysis-workshop.svg)](https://gitter.im/Becksteinlab/MDAnalysis-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## For Participants
 
 Please follow the [preparation
